@@ -39,4 +39,12 @@ export const BaseColaboradores = [
         cargo: "Desarrollador Fullstack",
         telefono: "99226666"
     },
+    {
+        id: "6",
+        nombre: "Jorge Notales",
+        correo: "jorge@colaborador.com",
+        edad: "43",
+        cargo: "Entrenador",
+        telefono: "992566985"
+    },
 ]
